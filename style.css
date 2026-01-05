@@ -261,21 +261,6 @@ a{
   grid-column: span 2;
   grid-row: span 2;
 }
-/* ---------- MOBILE ---------- */
-
-@media (max-width: 768px) {
-  .gallery {
-    grid-template-columns: repeat(2, 1fr);
-  }
-}
-
-.contact{
-  padding-top: 5px;
-}
-.contact_head{
-  border-bottom: 3px dotted rgb(177, 151, 102);
-  margin-top: 10px;
-}
 /* ================= MOBILE FIXES ================= */
 
 @media (max-width: 768px) {
@@ -344,3 +329,5 @@ a{
     text-align: center;
   }
 }
+
+
