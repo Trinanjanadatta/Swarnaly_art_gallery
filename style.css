@@ -261,6 +261,10 @@ a{
   grid-column: span 2;
   grid-row: span 2;
 }
+.contact_head{
+  border-bottom: 3px dotted var(--text-color);
+  margin-bottom: 5px;
+}
 /* ================= MOBILE FIXES ================= */
 
 @media (max-width: 768px) {
@@ -329,22 +333,5 @@ a{
     text-align: center;
   }
 }
-@media (max-width: 768px) {
-
-  /* HERO IMAGE FIX */
-  .hero-img {
-    width: 150vw;          /* makes it wider */
-    height: auto;          /* prevents it from being too tall */
-    max-height: 70vh;      /* limits vertical height */
-    object-fit: cover;
-    left: 50%;
-    top: 50%;
-    transform: translate(-50%, -50%);
-  }
-
-}
-
-
-
 
 
