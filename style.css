@@ -329,6 +329,21 @@ a{
     text-align: center;
   }
 }
+@media (max-width: 768px) {
+
+  /* HERO IMAGE FIX */
+  .hero-img {
+    width: 120vw;          /* makes it wider */
+    height: auto;          /* prevents it from being too tall */
+    max-height: 70vh;      /* limits vertical height */
+    object-fit: cover;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+  }
+
+}
+
 
 
 
