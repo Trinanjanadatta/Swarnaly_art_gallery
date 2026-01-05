@@ -299,24 +299,7 @@ a{
     font-size: 22px;
   }
 
-  /* HERO */
-  .hero {
-    position: relative;
-    height: auto;
-    min-height: 70vh;
-  }
-
-  .hero-img,
-  .logo-left,
-  .logo-right {
-    position: relative;
-    transform: none;
-    animation: none;
-    opacity: 1;
-    width: 90%;
-    margin: 0 auto;
-    display: block;
-  }
+ 
 
   /* ABOUT */
   .about_content {
@@ -359,18 +342,5 @@ a{
   /* FOOTER */
   footer {
     text-align: center;
-  }
-}
-
-/* NO HOVER DEVICES */
-@media (hover: none) {
-  .item:hover img {
-    transform: none;
-    filter: none;
-  }
-
-  .item .date {
-    opacity: 1;
-    transform: none;
   }
 }
