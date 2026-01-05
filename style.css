@@ -333,7 +333,7 @@ a{
 
   /* HERO IMAGE FIX */
   .hero-img {
-    width: 120vw;          /* makes it wider */
+    width: 150vw;          /* makes it wider */
     height: auto;          /* prevents it from being too tall */
     max-height: 70vh;      /* limits vertical height */
     object-fit: cover;
@@ -343,6 +343,7 @@ a{
   }
 
 }
+
 
 
 
