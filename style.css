@@ -328,8 +328,8 @@ a{
   }
 
   .item {
-    grid-column: span 1 !important;
-    grid-row: span 1 !important;
+    grid-column: span 1;
+    grid-row: span 1;
   }
 
   /* TEXT */
@@ -347,5 +347,6 @@ a{
     text-align: center;
   }
 }
+
 
 
