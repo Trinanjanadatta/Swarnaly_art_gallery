@@ -254,6 +254,14 @@ a{
   grid-column: span 2;
   grid-row: span 2;
 }
+.im17{
+  grid-column: span 2;
+  grid-row: span 3;
+}
+.im18{
+  grid-column: span 2;
+  grid-row: span 3;
+}
 .contact_head{
   border-bottom: 3px dotted var(--text-color);
   margin-bottom: 5px;
