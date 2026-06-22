@@ -4,7 +4,7 @@ A responsive artist portfolio website designed to showcase an artist's work thro
 
 ## 🌐 Live Demo
 
-🔗 https://your-portfolio-link.com
+🔗 [https://your-portfolio-link.com](https://swarnaly-art-gallery.vercel.app/)
 
 ## ✨ Features
 
@@ -32,7 +32,8 @@ A responsive artist portfolio website designed to showcase an artist's work thro
 
 ## 📸 Screenshots
 
-<img width="1920" height="1141" alt="Screenshot 2026-01-08 010543" src="https://github.com/user-attachments/assets/4ec4396f-00f6-439a-bad0-cfdf1a477787" />
-<img width="1920" height="1144" alt="Screenshot 2026-01-08 010446" src="https://github.com/user-attachments/assets/de856bfc-dcac-434a-87ae-7f57f4102585" />
-<img width="1920" height="1200" alt="Screenshot 2025-12-30 132704" src="https://github.com/user-attachments/assets/37a51b3c-f2fe-43b2-adb3-ff8760e90fac" />
+<img width="1920" height="1141" alt="Screenshot 2026-01-08 010543" src="https://github.com/user-attachments/assets/8a877993-0ddb-4f6f-99ba-7d21068df65f" />
+<img width="1920" height="1144" alt="Screenshot 2026-01-08 010446" src="https://github.com/user-attachments/assets/39840b2b-0adc-4545-97b6-3aa8168c8937" />
+<img width="1920" height="1200" alt="Screenshot 2025-12-30 132704" src="https://github.com/user-attachments/assets/882f1bd6-6353-4207-b91c-4a3ebf22a7ab" />
+
 
