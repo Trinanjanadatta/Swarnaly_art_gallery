@@ -32,8 +32,8 @@ A responsive artist portfolio website designed to showcase an artist's work thro
 
 ## 📸 Screenshots
 
-<img width="1920" height="1141" alt="Screenshot 2026-01-08 010543" src="https://github.com/user-attachments/assets/8a877993-0ddb-4f6f-99ba-7d21068df65f" />
-<img width="1920" height="1144" alt="Screenshot 2026-01-08 010446" src="https://github.com/user-attachments/assets/39840b2b-0adc-4545-97b6-3aa8168c8937" />
-<img width="1920" height="1200" alt="Screenshot 2025-12-30 132704" src="https://github.com/user-attachments/assets/882f1bd6-6353-4207-b91c-4a3ebf22a7ab" />
+<img width="1920" height="1101" alt="Screenshot 2026-01-08 010543" src="https://github.com/user-attachments/assets/6125d6f6-aa86-43f8-9b75-313b946df91e" />
+<img width="1920" height="1107" alt="Screenshot 2026-01-08 010446 - Copy" src="https://github.com/user-attachments/assets/bcb1ea85-ed02-48ee-aeb2-0a444600cad1" />
+<img width="1920" height="1104" alt="Screenshot 2025-12-30 132704 - Copy" src="https://github.com/user-attachments/assets/648d18d8-7714-47b1-bc2e-a4a96c68d5fc" />
 
 
